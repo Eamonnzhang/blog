@@ -4,3 +4,4 @@
 ### November
 
 1. [0.1+0.2 !== 0.3？](https://github.com/Eamonnzhang/blog/issues/1)
+1. [《剪不断理还乱的Babel》—初探](https://github.com/Eamonnzhang/blog/issues/2)
