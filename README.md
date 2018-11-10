@@ -4,4 +4,5 @@
 ### November
 
 1. [0.1+0.2 !== 0.3？](https://github.com/Eamonnzhang/blog/issues/1)
-1. [初探Babel](https://github.com/Eamonnzhang/blog/issues/3)
+2. [Babel初探-构成](https://github.com/Eamonnzhang/blog/issues/3)
+3. [Babel初探-使用和配置](https://github.com/Eamonnzhang/blog/issues/4)
