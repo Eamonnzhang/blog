@@ -3,7 +3,7 @@
 
 ## 2019
 ### June
-1. [用vue-cli3从0打造一个完整的UI库](https://github.com/Eamonnzhang/blog/issues/5)
+1. [用vue-cli3从0打造一个完整的UI库](https://github.com/Eamonnzhang/blog/issues/6)
 
 ## 2018
 ### November
